@@ -1,0 +1,1 @@
+This project analyzes key pricing factors using a cleaned dataset of Airbnb listings. Three models which are Linear Regression, Artificial Neural Network (ANN), and Deep Neural Network (DNN) were built and compared to identify the best-performing approach.
